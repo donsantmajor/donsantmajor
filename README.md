@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donsantmajor
 - 👀 I’m interested in contributing to OpenSource projects
-- 💞️ I’m looking to collaborate on python, javascript, reactjs , html and css , Aws and GCP
+- 💞️ I’m looking to collaborate on python, golang, javascript, reactjs , html and css , Aws and GCP
 - 📫 How to reach me https://github.com/donsantmajor
 
 <!---
